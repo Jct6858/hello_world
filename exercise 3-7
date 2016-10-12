@@ -1,0 +1,6 @@
+void setup()
+{
+  size(480, 120);
+  arc(430, 60, 80, 80, QUARTER_PI, TWO_PI-QUARTER_PI);
+  ellipse(435, 40, 10, 10);
+}
